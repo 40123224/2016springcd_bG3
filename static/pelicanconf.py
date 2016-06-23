@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'kmol'
-SITENAME = 'CD期末考週 網頁 (虎尾科大MDE)'
-SITEURL = 'http://cdw18-ag100.rhcloud.com/static/'
+SITENAME = 'CDW11 網頁 (虎尾科大MDE)'
+SITEURL = 'http://cdw11-ag100.rhcloud.com/static/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
